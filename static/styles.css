@@ -1,0 +1,31 @@
+body {
+    background-color: #65647C;
+}
+
+.rps-title {
+    margin-top: 20px;
+    font-family: 'East Sea Dokdo', cursive;
+    font-size: 100px;
+    color: #D7E9B9;
+}
+
+.playervs {
+    margin-top: 5%;
+    font-family: 'East Sea Dokdo', cursive;
+    color: #D7E9B9;
+    margin-bottom: 10px;
+}
+
+.winStatus {
+    margin-top: 5%;
+    font-family: 'East Sea Dokdo', cursive;
+    color: #D7E9B9;
+}
+
+.player1img {
+    width: 100%;
+}
+
+.player2img {
+    width: 100%;
+}
